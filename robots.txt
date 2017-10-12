@@ -4,3 +4,4 @@ Allow: /index.html
 Disallow: /thank-you
 Disallow: /assets/
 Disallow: /history/
+Disallow: /googleb72e96d1e050c736
