@@ -7,11 +7,21 @@
 
 <url>
   <loc>https://ambikareshamkhadi.netlify.com/</loc>
+  <xhtml:link 
+    rel="alternate"
+    hreflang="en"
+    href="https://ambikareshamkhadi.netlify.com/"
+    />
   <changefreq>daily</changefreq>
   <priority>1.00</priority>
 </url>
 <url>
   <loc>https://ambikareshamkhadi.netlify.com/index.html</loc>
+  <xhtml:link 
+    rel="alternate"
+    hreflang="en"
+    href="https://ambikareshamkhadi.netlify.com/index.html"
+    />
   <changefreq>daily</changefreq>
   <priority>0.80</priority>
 </url>
